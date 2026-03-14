@@ -1,2 +1,18 @@
-# Calculator-web-app
-A simple and responsive calculator web application built using HTML, CSS and JavaScript. it performs basic arithmetic operations like addition, subtraction, multiplication, and division with a clean user interface.
+# Calculator Web App
+
+A simple calculator built using HTML, CSS and JavaScript.
+
+## Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Clean UI
+
+## Live Demo
+https://delightful-alfajores-9cfb53.netlify.app
+
+## Technologies Used
+HTML  
+CSS  
+JavaScript
